@@ -1,14 +1,3 @@
-# Projeto WhatsApp Clone
-
-
-Projeto desenvolvido como exemplo do Curso Completo de JavaScript na Udemy.com.
-
-### Projeto
-
-### Recursos Usados
-
-Lista de recursos usados em aula para este projeto
-
 | Recurso | Link |
 | ------ | ------ |
 | Webpack | https://webpack.js.org/ |
